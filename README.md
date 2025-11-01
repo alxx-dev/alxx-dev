@@ -1,33 +1,33 @@
-# alxx.dev
+## Welcome to alxx.dev
 
-Welcome to **alxx.dev MVP**
+### `[ About Us ]`
+**alxx.dev** is an AI company focused on building practical automation systems, intelligent agents, and custom AI tools that actually improve daily life.
+**The mission** is to develop AI that delivers tools making learning, work, and productivity more efficient, accessible, and genuinely useful.
 
-## [ About Us ]
-`alxx.dev` is a forward-thinking AI company focused on building highly practical automation systems, intelligent agents, and custom AI tools that integrate seamlessly into everyday workflows.
+**Our flagship project, alxxAI,** is evolving into an advanced discord-based AI assistant that bridges automation, management, and creative tools into one experience.
+It’s designed to feel personal, fast, and smart, helping you manage servers, automate workflows, and handle complex tasks seamlessly.
 
-Our mission is to develop AI that goes beyond hype, delivering tools that make learning, creative work, and productivity more efficient, accessible, and genuinely useful.
+**The first public version is launching soon.**
 
-Our flagship product, `[ alxx.ai ]`, is an all-in-one assistant system designed to adapt to you and automate major aspects of life, from organization and knowledge management to financial tracking and more. It’s built for seamless integration, with a strong focus on privacy, usability, and real-world impact.
+**Long-term vision** is to extend this core system into standalone and cross-platform products, with the same adaptability and design principles.
 
-The first public version is launching soon.
+**Beyond our internal projects, alxx.dev also collaborates with other teams** to help design and develop their AI systems. We’re part of a growing ecosystem in music and automation.
 
-Beyond our internal projects, `alxx.dev` also collaborates with other teams to help design and develop their AI systems. We’re part of a growing ecosystem of ventures working to reshape how technology transforms the creative space, especially in music and automation.
+### `[ Roadmap ]`
 
-## [ Roadmap ]
+#### `[ 1. alxxAI Discord Launch ]`
+First release of the Discord Agent with intelligent moderation & automation.
 
-### [ 1. Public Launch ]
-Release of `alxx.ai lite`, a minimal AI assistant MVP designed for real-world usage. Fast, clean, and easy to integrate into your daily flow.
+#### `[ 2. Feature Expansion & New Agent Releases ]`
+Roll out smarter modules, better tools, and brand-new AI agents beyond just **alxxAI**, designed to handle niche tasks and workflows across productivity, creativity, learning, and more.
 
-### [ 2. Feature Expansion & New Agent Releases ]
-Roll out smarter modules, better tools, and brand-new AI agents beyond just `alxx.ai`, designed to handle niche tasks and workflows across productivity, creativity, learning, and more.
+#### `[ 3. SaaS & Web Integration ]`
+Turn alxxAI into a full SaaS platform with a web dashboard and API for advanced automation, analytics, and customization.
 
-### [ 3. SaaS Platform Option ]
-Launch the full version of `alxx.ai` as a hosted platform, optimized for teams, developers, and people who want quick setup, automation, and integration.
+#### `[ 4. Local & Offline Version ]`
+Deliver a fully local version of `alxxAI` and other Agents for users who prioritize privacy, offline access, and full control. No cloud, software running on your own system.
 
-### [ 4. Local & Offline Version ]
-Deliver a fully local version of `alxx.ai` for users who prioritize privacy, offline access, and full control, no cloud, just powerful software running on your own system.
-
-### [ Ongoing Collaboration ]
+#### `[ Ongoing Collaboration ]`
 We’re also helping other projects design and build their AI systems, such as `Guitarhub.dev` and the upcoming music-tech platform `Tonelab` as part of a larger ecosystem.
 
 ---
