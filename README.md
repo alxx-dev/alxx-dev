@@ -22,13 +22,13 @@ First release of the Discord Agent with intelligent moderation & automation.
 Roll out smarter modules, better tools, and brand-new AI agents beyond just **alxxAI**, designed to handle niche tasks and workflows across productivity, creativity, learning, and more.
 
 #### `[ 3. SaaS & Web Integration ]`
-Turn alxxAI into a full SaaS platform with a web dashboard and API for advanced automation, analytics, and customization.
+Turn **alxxAI** into a full SaaS platform with a web dashboard and API for advanced automation, analytics, and customization.
 
 #### `[ 4. Local & Offline Version ]`
-Deliver a fully local version of `alxxAI` and other Agents for users who prioritize privacy, offline access, and full control. No cloud, software running on your own system.
+Deliver a fully local version of **alxxAI** and other Agents for users who prioritize privacy, offline access, and full control. No cloud, software running on your own system.
 
 #### `[ Ongoing Collaboration ]`
-We’re also helping other projects design and build their AI systems, such as `Guitarhub.dev` and the upcoming music-tech platform `Tonelab` as part of a larger ecosystem.
+We’re also helping other projects design and build their AI systems, such as **Guitarhub.dev** and the upcoming music-tech platform **Tonelab** as part of a larger ecosystem.
 
 ---
 
