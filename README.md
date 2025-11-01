@@ -13,6 +13,8 @@ It’s designed to feel personal, fast, and smart, helping you manage servers, a
 
 **Beyond our internal projects, alxx.dev also collaborates with other teams** to help design and develop their AI systems. We’re part of a growing ecosystem in music and automation.
 
+#
+
 ### `[ Roadmap ]`
 
 #### `[ 1. alxxAI Discord Launch ]`
@@ -30,6 +32,6 @@ Deliver a fully local version of **alxxAI** and other Agents for users who prior
 #### `[ Ongoing Collaboration ]`
 We’re also helping other projects design and build their AI systems, such as **Guitarhub.dev** and the upcoming music-tech platform **Tonelab** as part of a larger ecosystem.
 
----
+#
 
 **This is just the beginning. The roadmap will evolve as we grow.**
